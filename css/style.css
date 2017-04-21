@@ -1,0 +1,26 @@
+.display{
+  background-color: black;
+  opacity: .75;
+  color: white;
+  padding: 50px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:15px;
+  font-size:1.5em;
+  padding-bottom: 2%;
+}
+.navbar-right{
+  padding-right:3%;
+}
+.spacer{
+  padding: 5%;
+}
+
+body{
+  background: no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
